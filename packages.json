@@ -3,6 +3,7 @@
     {
         "package": "RJDemetra",
         "url": "https://github.com/rjdverse/rjdemetra"
+		"branch" : "*release"
     },
     {
         "package": "rjd3toolkit",
