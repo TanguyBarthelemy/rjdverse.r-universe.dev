@@ -5,9 +5,12 @@
         "url": "https://github.com/rjdverse/rjdemetra"
     },
     {
+        "package": "rjd3jars",
+        "url": "https://github.com/rjdverse/rjd3jars"
+    },
+    {
         "package": "rjd3toolkit",
         "url": "https://github.com/rjdverse/rjd3toolkit"
-
     },
     {
         "package": "rjd3x13",
